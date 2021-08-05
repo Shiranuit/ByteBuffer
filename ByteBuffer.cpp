@@ -1,4 +1,4 @@
-#include "./ByteBuffer.hpp
+#include "./ByteBuffer.hpp"
 
 ByteBuffer::ByteBuffer(size_t _capacity) : capacity(_capacity)
 {
